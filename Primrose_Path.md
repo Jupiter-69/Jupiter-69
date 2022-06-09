@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Hari,
 A passionate frontend developer from India !
-- 👀 I’m interested in basic Mechatronics and UX designing.
+- 👀 I’m interested in Basic Mechatronics and UX designing.
 - 🌱 I’m currently doing my high school at CPS, Pala.
 - 💞️ I’m looking to collaborate on a startup app which requires a solid UX.
 - 📫 Reach me through my E-Mail renjithharipreeth@gmail.com
