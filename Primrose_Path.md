@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Haripreeth,
+- 👋 Hi, I’m Hari,
 A passionate frontend developer from India !
 - 👀 I’m interested in basic Mechatronics and UX designing.
 - 🌱 I’m currently doing my high school at CPS, Pala.
